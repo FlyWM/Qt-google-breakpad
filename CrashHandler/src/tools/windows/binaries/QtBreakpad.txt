@@ -1,0 +1,188 @@
+2019-01-03 14:57:32: minidump_processor.cc:264: INFO: Processing minidump in file C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp
+cygwin warning:
+  MS-DOS style path detected: C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp
+  Preferred POSIX equivalent is: /cygdrive/c/Users/84465/7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+2019-01-03 14:57:33: minidump.cc:3500: INFO: Minidump opened minidump C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp
+2019-01-03 14:57:33: minidump.cc:3545: INFO: Minidump not byte-swapping minidump
+2019-01-03 14:57:33: minidump.cc:3383: INFO: MinidumpBreakpadInfo has no dump thread
+2019-01-03 14:57:33: minidump.cc:3406: INFO: MinidumpBreakpadInfo has no requesting thread
+2019-01-03 14:57:33: minidump.cc:3902: INFO: GetStream: type 1197932546 not present
+2019-01-03 14:57:33: minidump.cc:1945: INFO: MinidumpModule could not determine version for E:\myOpenSourcce\build-QtBreakPadTest-Desktop_Qt_5_9_6_MSVC2015_32bit-Release\release\QtBreakPadTest.exe
+2019-01-03 14:57:33: minidump_processor.cc:116: INFO: Minidump C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp has CPU info, OS info, Breakpad info, exception, module list, thread list, no dump thread, and requesting thread
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:0/6 id 0x43ac
+2019-01-03 14:57:33: minidump.cc:681: INFO: MinidumpContext unknown context type 0x10040
+2019-01-03 14:57:33: minidump.cc:2839: INFO: MinidumpException cannot read context
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wkernelbase.pdb/424036D60336DCE862627D7FE5DD30A11/wkernelbase.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/QtBreakPadTest.pdb/918FA6CF46CC49DC9D91FE614C6882123/QtBreakPadTest.sym
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:1/6 id 0x1ea4
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wkernel32.pdb/CC28E59125064F9516DBA8AD3D6420A51/wkernel32.sym
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:2/6 id 0x37a0
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wkernel32.pdb/CC28E59125064F9516DBA8AD3D6420A51/wkernel32.sym
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:3/6 id 0x3d14
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wkernel32.pdb/CC28E59125064F9516DBA8AD3D6420A51/wkernel32.sym
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:4/6 id 0x91c
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wkernel32.pdb/CC28E59125064F9516DBA8AD3D6420A51/wkernel32.sym
+2019-01-03 14:57:33: minidump_processor.cc:150: INFO: Looking at thread C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp:5/6 id 0x420c
+2019-01-03 14:57:33: simple_symbol_supplier.cc:171: INFO: No symbol file at symbols/wntdll.pdb/14E4B2668272369F6E9FA2BE324180641/wntdll.sym
+2019-01-03 14:57:33: minidump_processor.cc:258: INFO: Processed C:\Users\84465\7e74efdb-a40d-4f23-926a-9f5568ae2343.dmp
+2019-01-03 14:57:33: minidump.cc:3472: INFO: Minidump closing minidump
+Operating system: Windows NT
+                  10.0.17134 
+CPU: x86
+     GenuineIntel family 6 model 158 stepping 9
+     8 CPUs
+
+Crash reason:  EXCEPTION_ACCESS_VIOLATION_WRITE
+Crash address: 0x0
+
+Thread 0 (crashed)
+ 0  ntdll.dll + 0x6a8fc
+    eip = 0x7770a8fc   esp = 0x003ef6c8   ebp = 0x003ef738   ebx = 0x003ef85c
+    esi = 0x00000000   edi = 0x00000290   eax = 0x00000000   ecx = 0x003efed0
+    edx = 0x007e0000   efl = 0x00000202
+    Found by: given as instruction pointer in context
+ 1  KERNELBASE.dll + 0xf4551
+    eip = 0x769e4552   esp = 0x003ef740   ebp = 0x003ef74c
+    Found by: previous frame's frame pointer
+ 2  QtBreakPadTest.exe + 0x2726
+    eip = 0x00fe2727   esp = 0x003ef754   ebp = 0x003ef790
+    Found by: previous frame's frame pointer
+ 3  KERNELBASE.dll + 0x195cef
+    eip = 0x76a85cf0   esp = 0x003ef798   ebp = 0x003ef82c
+    Found by: previous frame's frame pointer
+ 4  ntdll.dll + 0x9d79c
+    eip = 0x7773d79d   esp = 0x003ef834   ebp = 0x003eff8c
+    Found by: previous frame's frame pointer
+ 5  ntdll.dll + 0x63a87
+    eip = 0x77703a88   esp = 0x003eff94   ebp = 0x003eff9c
+    Found by: previous frame's frame pointer
+
+Thread 1
+ 0  ntdll.dll + 0x6c58c
+    eip = 0x7770c58c   esp = 0x009df948   ebp = 0x009dfb00   ebx = 0x007e79f0
+    esi = 0x007e7830   edi = 0x007e66f8   eax = 0x00000000   ecx = 0x00000000
+    edx = 0x00000000   efl = 0x00000206
+    Found by: given as instruction pointer in context
+ 1  kernel32.dll + 0x18483
+    eip = 0x76708484   esp = 0x009dfb08   ebp = 0x009dfb14
+    Found by: previous frame's frame pointer
+ 2  ntdll.dll + 0x63ab7
+    eip = 0x77703ab8   esp = 0x009dfb1c   ebp = 0x009dfb5c
+    Found by: previous frame's frame pointer
+ 3  ntdll.dll + 0x63a87
+    eip = 0x77703a88   esp = 0x009dfb64   ebp = 0x009dfb6c
+    Found by: previous frame's frame pointer
+
+Thread 2
+ 0  ntdll.dll + 0x6c58c
+    eip = 0x7770c58c   esp = 0x00adf5e4   ebp = 0x00adf79c   ebx = 0x007eabd0
+    esi = 0x007eaa10   edi = 0x007e66f8   eax = 0x00000000   ecx = 0x00000000
+    edx = 0x00000000   efl = 0x00000206
+    Found by: given as instruction pointer in context
+ 1  kernel32.dll + 0x18483
+    eip = 0x76708484   esp = 0x00adf7a4   ebp = 0x00adf7b0
+    Found by: previous frame's frame pointer
+ 2  ntdll.dll + 0x63ab7
+    eip = 0x77703ab8   esp = 0x00adf7b8   ebp = 0x00adf7f8
+    Found by: previous frame's frame pointer
+ 3  ntdll.dll + 0x63a87
+    eip = 0x77703a88   esp = 0x00adf800   ebp = 0x00adf808
+    Found by: previous frame's frame pointer
+
+Thread 3
+ 0  ntdll.dll + 0x6c58c
+    eip = 0x7770c58c   esp = 0x00c1fb48   ebp = 0x00c1fd00   ebx = 0x007eb6f8
+    esi = 0x007eb538   edi = 0x007e66f8   eax = 0x00000000   ecx = 0x00000000
+    edx = 0x00000000   efl = 0x00000206
+    Found by: given as instruction pointer in context
+ 1  kernel32.dll + 0x18483
+    eip = 0x76708484   esp = 0x00c1fd08   ebp = 0x00c1fd14
+    Found by: previous frame's frame pointer
+ 2  ntdll.dll + 0x63ab7
+    eip = 0x77703ab8   esp = 0x00c1fd1c   ebp = 0x00c1fd5c
+    Found by: previous frame's frame pointer
+ 3  ntdll.dll + 0x63a87
+    eip = 0x77703a88   esp = 0x00c1fd64   ebp = 0x00c1fd6c
+    Found by: previous frame's frame pointer
+
+Thread 4
+ 0  ntdll.dll + 0x6b77c
+    eip = 0x7770b77c   esp = 0x00f7f798   ebp = 0x00f7f7d4   ebx = 0x00806120
+    esi = 0x00806118   edi = 0x00000000   eax = 0x00000000   ecx = 0x00000000
+    edx = 0x00000000   efl = 0x00000202
+    Found by: given as instruction pointer in context
+ 1  ntdll.dll + 0x5425a
+    eip = 0x776f425b   esp = 0x00f7f7dc   ebp = 0x00f7f800
+    Found by: previous frame's frame pointer
+ 2  ntdll.dll + 0x54839
+    eip = 0x776f483a   esp = 0x00f7f808   ebp = 0x00f7f81c
+    Found by: previous frame's frame pointer
+ 3  ntdll.dll + 0x51b12
+    eip = 0x776f1b13   esp = 0x00f7f824   ebp = 0x00f7f9d4
+    Found by: previous frame's frame pointer
+ 4  kernel32.dll + 0x18483
+    eip = 0x76708484   esp = 0x00f7f9dc   ebp = 0x00f7f9e8
+    Found by: previous frame's frame pointer
+ 5  ntdll.dll + 0x63ab7
+    eip = 0x77703ab8   esp = 0x00f7f9f0   ebp = 0x00f7fa30
+    Found by: previous frame's frame pointer
+ 6  ntdll.dll + 0x63a87
+    eip = 0x77703a88   esp = 0x00f7fa38   ebp = 0x00f7fa40
+    Found by: previous frame's frame pointer
+
+Thread 5
+ 0  ntdll.dll + 0x6b78c
+    eip = 0x7770b78c   esp = 0x0268e8d4   ebp = 0x0268e8e0   ebx = 0x02760ca0
+    esi = 0x000002cc   edi = 0x02760c90   eax = 0x00000000   ecx = 0x00000000
+    edx = 0x00000000   efl = 0x00000206
+    Found by: given as instruction pointer in context
+
+Loaded modules:
+0x00fe0000 - 0x00febfff  QtBreakPadTest.exe  ???  (main)
+0x663e0000 - 0x66876fff  Qt5Core.dll  5.9.6.0
+0x6c8b0000 - 0x6c8d4fff  dbgcore.dll  6.2.17134.1
+0x6ee50000 - 0x6eec0fff  msvcp140.dll  14.13.26118.0
+0x71510000 - 0x71691fff  dbghelp.dll  6.2.17134.1
+0x72650000 - 0x72672fff  WINMMBASE.dll  6.2.17134.1
+0x73200000 - 0x73223fff  winmm.dll  6.2.17134.1
+0x73230000 - 0x73247fff  mpr.dll  6.2.17134.1
+0x73250000 - 0x73257fff  version.dll  6.2.17134.1
+0x73d40000 - 0x73d60fff  userenv.dll  6.2.17134.1
+0x73ea0000 - 0x73eb4fff  VCRUNTIME140.dll  14.13.26118.0
+0x73f50000 - 0x73f59fff  CRYPTBASE.dll  6.2.17134.1
+0x73f60000 - 0x73f7ffff  sspicli.dll  6.2.17134.376
+0x740d0000 - 0x74127fff  bcryptPrimitives.dll  6.2.17134.471
+0x74190000 - 0x741f6fff  ws2_32.dll  6.2.17134.1
+0x74200000 - 0x74238fff  cfgmgr32.dll  6.2.17134.1
+0x74290000 - 0x742a7fff  profapi.dll  6.2.17134.1
+0x74390000 - 0x7451cfff  user32.dll  6.2.17134.376
+0x74520000 - 0x74536fff  win32u.dll  6.2.17134.1
+0x74540000 - 0x74af9fff  windows.storage.dll  6.2.17134.471
+0x74b00000 - 0x74b7cfff  msvcp_win.dll  6.2.17134.1
+0x74d80000 - 0x74dc3fff  sechost.dll  6.2.17134.319
+0x74dd0000 - 0x74dd7fff  fltLib.dll  6.2.17134.1
+0x75210000 - 0x7521efff  kernel.appcore.dll  6.2.17134.112
+0x75220000 - 0x75264fff  powrprof.dll  6.2.17134.1
+0x75270000 - 0x765b9fff  shell32.dll  6.2.17134.441
+0x766c0000 - 0x766e1fff  gdi32.dll  6.2.17134.285
+0x766f0000 - 0x767cffff  kernel32.dll  6.2.17134.1
+0x767d0000 - 0x768edfff  ucrtbase.dll  6.2.17134.319
+0x768f0000 - 0x76ad3fff  KERNELBASE.dll  6.2.17134.441
+0x76af0000 - 0x76b15fff  imm32.dll  6.2.17134.1
+0x76c90000 - 0x76d17fff  SHCore.dll  6.2.17134.112
+0x76d20000 - 0x76e83fff  gdi32full.dll  6.2.17134.471
+0x76e90000 - 0x76f8bfff  ole32.dll  6.2.17134.407
+0x76fb0000 - 0x77027fff  advapi32.dll  6.2.17134.471
+0x770c0000 - 0x7717ffff  rpcrt4.dll  6.2.17134.471
+0x771a0000 - 0x771e4fff  shlwapi.dll  6.2.17134.1
+0x77200000 - 0x7745bfff  combase.dll  6.2.17134.407
+0x774f0000 - 0x775aefff  msvcrt.dll  7.0.17134.1
+0x776a0000 - 0x7782ffff  ntdll.dll  6.2.17134.471
